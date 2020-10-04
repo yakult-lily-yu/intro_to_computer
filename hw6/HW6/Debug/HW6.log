@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\計概\hw6\hw6\hw6\source.cpp(19): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\計概\hw6\hw6\hw6\source.cpp(9): warning C4101: 'players_number': 未參考的區域變數
+  HW6.vcxproj -> D:\計概\HW6\HW6\Debug\HW6.exe
+  HW6.vcxproj -> D:\計概\HW6\HW6\Debug\HW6.pdb (Partial PDB)

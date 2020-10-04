@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\計概\hw8\hw8_e24066470\hw8_e24066470\source.cpp(16): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  HW8_E24066470.vcxproj -> D:\計概\HW8\HW8_E24066470\Debug\HW8_E24066470.exe
+  HW8_E24066470.vcxproj -> D:\計概\HW8\HW8_E24066470\Debug\HW8_E24066470.pdb (Partial PDB)

@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\計概\hw10\hw10.1\hw10.1\source.cpp(170): warning C4018: '<': signed/unsigned 不相符
+d:\計概\hw10\hw10.1\hw10.1\source.cpp(193): warning C4018: '<': signed/unsigned 不相符
+d:\計概\hw10\hw10.1\hw10.1\source.cpp(195): warning C4018: '<': signed/unsigned 不相符
+d:\計概\hw10\hw10.1\hw10.1\source.cpp(201): warning C4018: '<': signed/unsigned 不相符
+d:\計概\hw10\hw10.1\hw10.1\source.cpp(209): warning C4018: '<': signed/unsigned 不相符
+d:\計概\hw10\hw10.1\hw10.1\source.cpp(224): warning C4018: '<': signed/unsigned 不相符
+  HW10.1.vcxproj -> D:\計概\HW10\HW10.1\Debug\HW10.1.exe
+  HW10.1.vcxproj -> D:\計概\HW10\HW10.1\Debug\HW10.1.pdb (Partial PDB)

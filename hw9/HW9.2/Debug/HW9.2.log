@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\計概\hw9\hw9.2\hw9.2\source.cpp(47): warning C4018: '<': signed/unsigned 不相符
+d:\計概\hw9\hw9.2\hw9.2\source.cpp(116): warning C4018: '<': signed/unsigned 不相符
+d:\計概\hw9\hw9.2\hw9.2\source.cpp(173): warning C4018: '<': signed/unsigned 不相符
+d:\計概\hw9\hw9.2\hw9.2\source.cpp(189): warning C4018: '<': signed/unsigned 不相符
+d:\計概\hw9\hw9.2\hw9.2\source.cpp(191): warning C4018: '<': signed/unsigned 不相符
+d:\計概\hw9\hw9.2\hw9.2\source.cpp(231): warning C4101: 'line_counter': 未參考的區域變數
+  HW9.2.vcxproj -> D:\計概\HW9\HW9.2\Debug\HW9.2.exe
+  HW9.2.vcxproj -> D:\計概\HW9\HW9.2\Debug\HW9.2.pdb (Partial PDB)
